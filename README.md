@@ -6,4 +6,4 @@
 # The encoder layer of the transformer in BDRL
 ![image](https://github.com/Anonymous-author-code/BDRL/blob/main/Attention1.png)
 # Illustrations of fine-tuning BDRL for solution classification
-![image](https://github.com/Anonymous-author-code/BDRL/blob/main/Fine-turning.png)
+![image](https://github.com/Anonymous-author-code/BDRL/blob/main/Fine-turning%201.png)
