@@ -1,2 +1,5 @@
 # BDRL
-The source code of the corresponding part of the paper under review.
+
+
+# The encoder of the BDRL
+![image](https://github.com/Anonymous-author-code/BDRL/blob/main/BDRL1.png)
